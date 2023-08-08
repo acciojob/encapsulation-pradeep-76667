@@ -10,7 +10,7 @@ public class Main {
         RWOnly rwOnly = new RWOnly();
 
         // Task 4: Setting a value to name, by directly accessing it using obj and also try printing it Error: you might seen some error, please not it down in commnets
-        // rwnOly.name = "Amit";
+        // rwnOly.name = "Pradeep";
         // System.out.println(rwOnly.name);
 
         // Exception in thread "main" java.lang.Error: Unresolved compilation problems:
