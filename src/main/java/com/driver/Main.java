@@ -22,7 +22,6 @@ public class Main {
         rwOnly.setName("Pradeep");
 
         // Task 6: Now, trying to access it's value using getter function
-        String name = rwOnly.getName();
-        System.out.println(name);
+        System.out.println(getName());
     }
 }
